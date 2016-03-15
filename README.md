@@ -1,2 +1,3 @@
 # planets
-# git course
+git course
+with hugues fontenelle
